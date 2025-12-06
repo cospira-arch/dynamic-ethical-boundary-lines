@@ -1,6 +1,6 @@
 # dynamic-ethical-boundary-lines  
 *A Relational Ontology through Techno-Animism*  
-**Eiji Kodama, Independent Researcher**
+**E(英二）Kodama, Independent Researcher**
 
 This repository hosts the public preprint of the paper:
 
