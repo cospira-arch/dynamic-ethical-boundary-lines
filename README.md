@@ -18,3 +18,4 @@ Please cite as:
 Kodama, E(英二）. (2025). Dynamic Ethical Boundary Lines.  
 CC-BY 4.0 License.
 
+https://zenodo.org/record/17836219
