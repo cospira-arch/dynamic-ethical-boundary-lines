@@ -4,7 +4,7 @@
 
 This repository hosts the public preprint of the paper:
 
-> Kodama, Eiji. (2025). Dynamic Ethical Boundary Lines:
+> Kodama, E(英二）. (2025). Dynamic Ethical Boundary Lines:
 > A Relational Ontology through Techno-Animism.
 
 ### Abstract
@@ -15,6 +15,6 @@ This paper proposes dynamic ethical boundary lines as a foundational principle f
 ### Citation
 Please cite as:
 
-Kodama, Eiji. (2025). Dynamic Ethical Boundary Lines.  
+Kodama, E(英二）. (2025). Dynamic Ethical Boundary Lines.  
 CC-BY 4.0 License.
 
